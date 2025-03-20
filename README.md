@@ -1,10 +1,10 @@
-<a href="https://developerreva.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=8436F7&background=FFFFFF00&center=false&random=false&width=300&lines=DeveloperEva" alt="Typing SVG" /></a>
+<a href="https://mukhametzhan-dev.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=8436F7&background=FFFFFF00&center=false&random=false&width=300&lines=DeveloperEva" alt="Typing SVG" /></a>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developerreva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developerreva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukhametzhan-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhametzhan-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/developerreva/developerreva/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mukhametzhan-dev/mukhametzhan-dev/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/developerreva/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/mukhametzhan-dev/count.svg?"  />
 </div>
 
 ###
