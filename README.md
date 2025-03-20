@@ -29,6 +29,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mongodb.svg" height="30" alt="mongo" />
+  <img width="12"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
