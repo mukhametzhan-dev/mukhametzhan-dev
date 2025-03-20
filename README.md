@@ -49,18 +49,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mukhametzhan-dev/mukhametzhan-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=kli09xgbbkil2q35z8zq4stcq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=622693&bar_color_cover=false?theme=dark&spin=false" alt="Widget with the current Spotify song"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/mukhametzhan-dev/count.svg?"  />
 </div>
