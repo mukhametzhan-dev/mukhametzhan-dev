@@ -25,14 +25,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg" height="30" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/373554/django.svg" height="30" alt="dj" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mongodb.svg" height="30" alt="mongo" />
   <img width="12"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+
+  
 </div>
 
 ###
