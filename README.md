@@ -1,5 +1,4 @@
 <a href="https://mukhametzhan-dev.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=8436F7&background=FFFFFF00&center=false&random=false&width=300&lines=mukhametzhan-dev" alt="Typing SVG" /></a>
-
 ###
 
 <div align="center">
