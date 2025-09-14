@@ -31,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mongodb.svg" height="30" alt="mongo" />
-  <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-at6qw0yb.png" height="30" alt="postgre" />
-  <img width="12"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   
