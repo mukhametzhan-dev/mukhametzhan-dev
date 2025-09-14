@@ -45,8 +45,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mukhametzhan-dev/count.svg?"  />
-</div>
+
 
 ###
