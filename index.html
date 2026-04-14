@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio | Developer & Creator</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+</head>
+<body>
+    <!-- 3D Background Canvas -->
+    <canvas id="bg-canvas"></canvas>
+    
+    <!-- Main Container -->
+    <div class="container">
+        <!-- Navigation -->
+        <nav class="navbar">
+            <div class="logo">~/portfolio</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+
+        <!-- Hero Section with Terminal -->
+        <section id="home" class="hero">
+            <div class="hero-content">
+                <div class="terminal-window">
+                    <div class="terminal-header">
+                        <div class="terminal-buttons">
+                            <span class="btn-close"></span>
+                            <span class="btn-minimize"></span>
+                            <span class="btn-maximize"></span>
+                        </div>
+                        <div class="terminal-title">user@portfolio:~</div>
+                    </div>
+                    <div class="terminal-body" id="terminal">
+                        <div class="terminal-output" id="terminal-output"></div>
+                        <div class="terminal-input-line">
+                            <span class="prompt">user@portfolio:~$</span>
+                            <input type="text" id="terminal-input" class="terminal-input" autofocus autocomplete="off">
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-text">
+                    <h1>Welcome to My Portfolio</h1>
+                    <p class="typing-effect">Full Stack Developer | 3D Artist | Problem Solver</p>
+                    <div class="scroll-indicator">
+                        <p>Type 'help' to see available commands</p>
+                        <span class="arrow">↓</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="section">
+            <div class="section-container">
+                <h2 class="section-title">About Me</h2>
+                <div class="about-content">
+                    <div class="about-card card-3d">
+                        <div class="card-inner">
+                            <h3>Who I Am</h3>
+                            <p>I'm a passionate developer with expertise in creating interactive web experiences. I love combining technology with creativity to build amazing digital products.</p>
+                            <p>With years of experience in full-stack development, I specialize in building scalable applications and immersive 3D experiences on the web.</p>
+                        </div>
+                    </div>
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <span class="stat-number" data-target="50">0</span>
+                            <span class="stat-label">Projects Completed</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" data-target="5">0</span>
+                            <span class="stat-label">Years Experience</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" data-target="30">0</span>
+                            <span class="stat-label">Happy Clients</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="section">
+            <div class="section-container">
+                <h2 class="section-title">Projects</h2>
+                <div class="projects-grid">
+                    <div class="project-card card-3d">
+                        <div class="project-icon">🌐</div>
+                        <h3>Web Application</h3>
+                        <p>A full-stack web application built with modern technologies featuring real-time updates and responsive design.</p>
+                        <div class="tech-tags">
+                            <span>React</span>
+                            <span>Node.js</span>
+                            <span>MongoDB</span>
+                        </div>
+                    </div>
+                    <div class="project-card card-3d">
+                        <div class="project-icon">🎮</div>
+                        <h3>3D Experience</h3>
+                        <p>Interactive 3D web experience using Three.js with immersive animations and user interactions.</p>
+                        <div class="tech-tags">
+                            <span>Three.js</span>
+                            <span>WebGL</span>
+                            <span>GSAP</span>
+                        </div>
+                    </div>
+                    <div class="project-card card-3d">
+                        <div class="project-icon">📱</div>
+                        <h3>Mobile App</h3>
+                        <p>Cross-platform mobile application with native performance and beautiful UI/UX design.</p>
+                        <div class="tech-tags">
+                            <span>React Native</span>
+                            <span>Firebase</span>
+                            <span>Redux</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills Section -->
+        <section id="skills" class="section">
+            <div class="section-container">
+                <h2 class="section-title">Skills</h2>
+                <div class="skills-container">
+                    <div class="skill-category">
+                        <h3>Frontend</h3>
+                        <div class="skill-bars">
+                            <div class="skill-bar">
+                                <span>JavaScript/TypeScript</span>
+                                <div class="bar"><div class="fill" data-width="95"></div></div>
+                            </div>
+                            <div class="skill-bar">
+                                <span>React/Vue</span>
+                                <div class="bar"><div class="fill" data-width="90"></div></div>
+                            </div>
+                            <div class="skill-bar">
+                                <span>Three.js/WebGL</span>
+                                <div class="bar"><div class="fill" data-width="85"></div></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skill-category">
+                        <h3>Backend</h3>
+                        <div class="skill-bars">
+                            <div class="skill-bar">
+                                <span>Node.js</span>
+                                <div class="bar"><div class="fill" data-width="90"></div></div>
+                            </div>
+                            <div class="skill-bar">
+                                <span>Python</span>
+                                <div class="bar"><div class="fill" data-width="85"></div></div>
+                            </div>
+                            <div class="skill-bar">
+                                <span>Database</span>
+                                <div class="bar"><div class="fill" data-width="80"></div></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="section">
+            <div class="section-container">
+                <h2 class="section-title">Get In Touch</h2>
+                <div class="contact-content">
+                    <div class="contact-info">
+                        <div class="contact-item">
+                            <span class="icon">📧</span>
+                            <div>
+                                <h4>Email</h4>
+                                <p>hello@portfolio.dev</p>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <span class="icon">📍</span>
+                            <div>
+                                <h4>Location</h4>
+                                <p>San Francisco, CA</p>
+                            </div>
+                        </div>
+                        <div class="social-links">
+                            <a href="#" class="social-link">GitHub</a>
+                            <a href="#" class="social-link">LinkedIn</a>
+                            <a href="#" class="social-link">Twitter</a>
+                        </div>
+                    </div>
+                    <form class="contact-form">
+                        <input type="text" placeholder="Your Name" required>
+                        <input type="email" placeholder="Your Email" required>
+                        <textarea placeholder="Your Message" rows="5" required></textarea>
+                        <button type="submit" class="btn-submit">Send Message</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2024 Portfolio. Built with ❤️ and Three.js</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
